@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /
+permalink: /index.html
 title: "Home"
 ---
 
-
-<div class="hero-unit" style="background-image:url(images/head.jpg)">
-    <h1 style="padding-left:70%;padding-top:150px;padding-bottom:200px;font-size:75px;color:white">算法时代</h1>
+<div style="max-width:1440px;margin:0 auto">
+<div class="hero-unit center" style="background-image:url(images/head.jpg);background-size:cover;background-repeat:no-repeat">
+    <h1 style="padding-left:60%;padding-top:200px;padding-bottom:200px;font-size:75px;color:white">算法时代</h1>
 </div>
 
 <div class="tiles" style="text-align:center">
@@ -24,3 +24,5 @@ title: "Home"
 </div>
 
 </div><!-- /.tiles -->
+
+</div>

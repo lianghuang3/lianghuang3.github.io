@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Plan //课程计划
-  url:
+- title: Schedule//课程计划
+  url: schedule.html
   excerpt:
   image:
 
-- title: FAQ //常见问题
-  url:
+- title: FAQ//常见问题
+  url: faq.html
   excerpt:
   image:
 
-- title: Register //报名
-  url:
+- title: Register//报名
+  url: register.html
   excerpt:
   image:
 
-- title: About //关于我们
-  url:
+- title: About//关于我们
+  url: about.html
   excerpt:
   image:
