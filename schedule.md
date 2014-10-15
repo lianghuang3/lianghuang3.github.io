@@ -4,7 +4,7 @@ permalink: /schedule.html
 title: "Schedule //课程计划"
 ---
 
-主讲人: 
+#### 主讲人 
 
 著名畅销书《算法艺术与信息学竞赛》作者 黄亮教授
 
